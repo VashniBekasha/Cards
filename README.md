@@ -14,5 +14,3 @@ This project demonstrates a responsive card slider using Bootstrap's framework. 
 You will need the following to run this project:
 - A modern web browser (Google Chrome, Firefox, Safari, etc.)
 - Internet connection (for loading Bootstrap CDN)
-
-
