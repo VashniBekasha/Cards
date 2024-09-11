@@ -15,4 +15,4 @@ You will need the following to run this project:
 - A modern web browser (Google Chrome, Firefox, Safari, etc.)
 - Internet connection (for loading Bootstrap CDN)
 
-- 
+
